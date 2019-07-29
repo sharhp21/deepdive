@@ -1,0 +1,14 @@
+[logtest1.py:3]2019-07-22 14:22:48,510>test
+[logtest1.py:3]2019-07-22 14:22:59,819>test
+[logtest1.py:3]2019-07-22 14:27:20,210>test
+[logtest1.py:3]2019-07-22 14:27:33,582>test
+[irisClassification.py:20]2019-07-22 14:37:36,688>dict_keys(['data', 'target', 'target_names', 'DESCR', 'feature_names', 'filename'])
+[irisClassification.py:20]2019-07-22 14:38:34,114>dict_keys(['data', 'target', 'target_names', 'DESCR', 'feature_names', 'filename'])
+[irisClassification.py:37]2019-07-22 14:38:34,116>[0 0 2 2 2 2 1 2 2 2 0 0 2 0 0 2 1 0 0 1 1 0 0 2 2 1 1 1 0 2 1 2 2 1 0 2 0
+ 0 0 1 1 0 2 1 1 2 2 1 2 1 2 1 1 0 2 2 1 0 0 1 0 1 1 1 1 1 1 1 0 1 0 0 0 1
+ 0 2 0 1 2 1 2 1 2 2 0 2 1 0 2 0 0 1 0 0 0 2 2 0 2 2 2 0 1 1 2 2 2 2 0 0 1
+ 1 0 0 1 2 2 0 1 1]
+[irisClassification.py:42]2019-07-22 14:38:34,214>logistic regression accuracy:96.67%
+[irisClassification.py:43]2019-07-22 14:38:34,215>logistic regression coef:[[ 0.41590168  1.36066366 -2.1691972  -0.93938005]
+ [ 0.26960415 -1.36611161  0.66749324 -1.36539291]
+ [-1.56758642 -1.38379263  2.24865201  2.35607725]], w:[ 0.2587767   0.88383868 -1.0831296 ]
